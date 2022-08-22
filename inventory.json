@@ -1,0 +1,51 @@
+{
+  "Banking": [
+    {
+      "stockName": "Yes_Bank",
+      "numberOfShares": 120,
+      "price": 17
+    },
+    {
+      "stockName": "SBI",
+      "numberOfShares": 120,
+      "price": 17
+    }
+
+  ],
+  "Finance": [
+    {
+      "stockName": "Bajaj_Finance",
+      "numberOfShares": 150,
+      "price": 250
+    },
+    {
+      "stockName": "bhartiAirtel",
+      "numberOfShares": 120,
+      "price": 17
+    }
+  ],
+  "Metals": [
+    {
+      "stockName": "Indian_Metals",
+      "numberOfShares": 110,
+      "price": 20
+    },
+    {
+      "stockName": "Global",
+      "numberOfShares": 120,
+      "price": 17
+    }
+  ],
+  "Health": [
+    {
+      "stockName": "Herbalife",
+      "numberOfShares": 150,
+      "price": 22
+    },
+    {
+      "stockName": "Wellness",
+      "numberOfShares": 120,
+      "price": 17
+    }
+  ]
+}
